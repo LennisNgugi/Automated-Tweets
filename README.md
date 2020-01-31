@@ -15,6 +15,10 @@ This python based tool was designed to help less able twitter users to tweet wit
 
 <p></p>
 
+![](Demo4.GIF)
+
+<p></p>
+
 ![](Demo2.GIF)
 
 <p></p>
