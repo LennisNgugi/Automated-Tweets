@@ -9,8 +9,13 @@ This python based tool was designed to help less able twitter users to tweet wit
   
 # Demo
 <p></p>
+
 ![](Demo1.GIF)
+
 <p></p>
+
 ![](Demo2.GIF)
+
 <p></p>
-<p>Video Demo:shorturl.at/ckH14 </>
+
+<p>Video Demo: shorturl.at/ckH14 </>
