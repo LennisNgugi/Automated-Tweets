@@ -1,3 +1,3 @@
-username = 'Lennis_Luigi'
-password = 'abcd5s2'
+username = 'Username-or-emailaddress'
+password = 'UsersPassword'
 status = 'Hello World!'
