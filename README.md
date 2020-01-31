@@ -1,6 +1,6 @@
 # Automated-Tweets
 This python based tool was designed to help less able twitter users to tweet with more ease. 
-<p>Function: Login using both user/email and password and send tweet</p>
+<p>Functions: Login using both user/email and password and send tweet</p>
 <p>Additional functions will be added in due time</p>
 
 # Requirements
@@ -8,9 +8,10 @@ This python based tool was designed to help less able twitter users to tweet wit
 <p>Download webdriver depending on what OS your using: https://chromedriver.storage.googleapis.com/index.html?path=80.0.3987.16/ </p>
   
 # Demo
+
 <p></p>
 
-![](Demo1.GIF)
+![](Demo3.GIF)
 
 <p></p>
 
@@ -18,4 +19,8 @@ This python based tool was designed to help less able twitter users to tweet wit
 
 <p></p>
 
-<p>Video Demo: shorturl.at/ckH14 </>
+![](Demo1.GIF)
+
+<p></p>
+
+<p>Video Demo: https://twitter.com/Lennis_Luigi/status/1223087847139430400?s=20 </>
