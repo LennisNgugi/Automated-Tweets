@@ -1,7 +1,7 @@
 # Automated-Tweets
 This python based tool was designed to help less able twitter users to tweet with more ease. 
 <p>Functions: Login using both user/email and password and send tweet</p>
-<p>New Function: Speech Recongnition now available, users can now tweet via voice </p>
+<p>New Function: Speech Recongnition now available, users can now tweet via voice command</p>
 
 # Requirements
 <p>pip install selenium</p>
