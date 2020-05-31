@@ -16,6 +16,8 @@ This python based tool was designed to help less able twitter users to tweet wit
 
 ![](Demo1.GIF)
 
+<p>Username/Email</p>
+
 <p></p>
 
 ![](Demo2.GIF)
