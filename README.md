@@ -4,9 +4,12 @@ This python based tool was designed to help less able twitter users to tweet wit
 <p>New Function: Speech Recongnition now available, users can now tweet via voice command</p>
 
 # Requirements
-<p>pip install selenium</p>
-<p>pip install SpeechRecognition</p>
-<p>pip install PyAudio</p>
+<li>pip install selenium</li>
+<li>pip install SpeechRecognition</li>
+<li>pip install PyAudio</li>
+
+<p>Alternatively pip install -r requirements.txt</p>
+
 <p>Download webdriver depending on what OS you're using: https://chromedriver.storage.googleapis.com/index.html?path=83.0.4103.39/ </p>
 <p>After downloading the chromedriver: mv chromedriver /usr/local/bin
 
