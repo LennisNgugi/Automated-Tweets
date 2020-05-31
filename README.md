@@ -22,17 +22,25 @@ This python based tool was designed to help less able twitter users to tweet wit
 
 ![](Demo2.GIF)
 
+<p>Password</p>
+
 <p></p>
 
 ![](Demo3.GIF)
+
+<p>Voice Capture</p>
 
 <p></p>
 
 ![](Demo4.GIF)
 
+<p>Voice Capture Curned To Text and Tweeted</p>
+
 <p></p>
 
 ![](Demo5.GIF)
+
+<p>Tweet</p>
 
 <p></p>
 
