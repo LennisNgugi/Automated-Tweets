@@ -14,6 +14,14 @@ This python based tool was designed to help less able twitter users to tweet wit
 
 <p></p>
 
+![](Demo1.GIF)
+
+<p></p>
+
+![](Demo2.GIF)
+
+<p></p>
+
 ![](Demo3.GIF)
 
 <p></p>
@@ -22,12 +30,7 @@ This python based tool was designed to help less able twitter users to tweet wit
 
 <p></p>
 
-![](Demo2.GIF)
+![](Demo5.GIF)
 
 <p></p>
-
-![](Demo1.GIF)
-
-<p></p>
-
 
