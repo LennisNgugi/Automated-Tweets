@@ -34,7 +34,7 @@ This python based tool was designed to help less able twitter users to tweet wit
 
 ![](Demo4.GIF)
 
-<p>Voice Capture Curned To Text and Tweeted</p>
+<p>Voice Captured Turned To Text</p>
 
 <p></p>
 
