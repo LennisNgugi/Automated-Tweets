@@ -28,13 +28,13 @@ This python based tool was designed to help less able twitter users to tweet wit
 
 ![](Demo3.GIF)
 
-<p>Voice Capture</p>
+<p>Voice Captured Turned To Text String</p>
 
 <p></p>
 
 ![](Demo4.GIF)
 
-<p>Voice Captured Turned To Text</p>
+<p>Text String Entered In Compose Field</p>
 
 <p></p>
 
